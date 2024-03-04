@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshikaJais&" alt="akshat-jaiswal-8" /></p>
 
-![](https://komarev.com/ghpvc/?username=AnshikaJais&color=bluevoilet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AnshikaJais)
